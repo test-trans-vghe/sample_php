@@ -17,5 +17,5 @@ script:
 notifications:
    email: false
 
-build_image: drydock/u14phpall:tip
+build_image: drydock/u14php:tip
       
